@@ -1,1 +1,1 @@
-# advanced_analytics_excel_video_course
+Resources for tbe Advanced Analytics in Excel video course 
