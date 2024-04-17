@@ -1,1 +1,1 @@
-Resources for tbe Advanced Analytics in Excel video course 
+Resources for Advanced Analytics in Excel video course (O'Reilly) 
